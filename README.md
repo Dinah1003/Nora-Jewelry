@@ -6,7 +6,7 @@ Cette analyse est réalisée pour une boutique de bijoux e-commerce. L'objectif 
 
 1. Le dashboard interactif peut être télécharger [ici](https://public.tableau.com/authoring/NoraJewelryDashboard/Tableaudebord2#1)
 2. Les requêtes SQL utilisées pour inspecter et assurer la qualité des données peuvent être trouvées ici - (https://github.com/Dinah1003/Nora-Jewelry/blob/main/Data%20quality%20check.sql)
-3. Les requêtes SQL qui répondent aux questions business peuvent être trouvées ici - (https://github.com/Dinah1003/Nora-Jewelry/blob/main/Requêtes%20business%20questions.sql)
+3. Les requêtes SQL qui répondent aux questions business peuvent être trouvées ici - (https://github.com/Dinah1003/Nora-Jewelry/blob/ea449635f79143994d35703a901b14540fab93cb/Reque%CC%82tes%20business%20questions.sql)
 
 ## **Data Structure & Initial Checks**
 
