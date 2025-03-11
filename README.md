@@ -4,7 +4,7 @@
 
 Cette analyse est réalisée pour une boutique de bijoux e-commerce. L'objectif est d'identifier les tendances de vente, les performances des produits, la rétention client et les stratégies marketing efficaces à travers une analyse exploratoire des données (EDA) (sur SQL)et des visualisations interactives réalisées sur **Tableau**.
 
-1. Le dashboard interactif peut être télécharger [ici](https://public.tableau.com/views/NoraJewelryDashboard/Tableaudebord2?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+1. Le dashboard interactif peut être visualiser [ici](https://public.tableau.com/views/NoraJewelryDashboard/Tableaudebord2?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 2. Les requêtes SQL utilisées pour inspecter et assurer la qualité des données peuvent être trouvées ici - (https://github.com/Dinah1003/Nora-Jewelry/blob/main/Data%20quality%20check.sql)
 3. Les requêtes SQL qui répondent aux questions business peuvent être trouvées ici - (https://github.com/Dinah1003/Nora-Jewelry/blob/ea449635f79143994d35703a901b14540fab93cb/Reque%CC%82tes%20business%20questions.sql)
 
