@@ -107,7 +107,7 @@ L'analyse des ventes de la boutique de bijoux met en évidence plusieurs tendanc
 ## **Resources**
 
 - **SQL Queries** : (https://github.com/Dinah1003/Nora-Jewelry/blob/28002297558a8171eb7dc659236c8f2315679588/Reque%CC%82tes%20business%20questions.sql)
-- **Tableau Dashboard** : [Lien vers le tableau interactif]
+- **Tableau Dashboard** : (https://public.tableau.com/views/NoraJewelryDashboard/Tableaudebord2?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - **Data Check & Preparation** : (https://github.com/Dinah1003/Nora-Jewelry/blob/28002297558a8171eb7dc659236c8f2315679588/Data%20quality%20check.sql)
 
 ---
