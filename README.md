@@ -21,7 +21,7 @@ La base de données principale est constituée de plusieurs tables, incluant :
 
 ## **Executive Summary**
 
-![image alt](https://github.com/Dinah1003/Nora-Jewelry/blob/7c9c125fab56f6a0c207e71bcf2fdd472d12f414/Dashboard.jpg)
+![image alt](https://github.com/Dinah1003/Nora-Jewelry/blob/4c142ded975a593df093fdc4a24550d08661a5db/Nora%20Jewelry%20Dashboard.jpg)
 
 ### **Overview of Findings**
 
